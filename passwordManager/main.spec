@@ -5,7 +5,7 @@ a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[('logo.png', '.')],
+    datas=[('background.png', '.'), ('kanye.png', '.'), ('kanye_quotes.json', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
